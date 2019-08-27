@@ -1,6 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, Dimensions, Button } from 'react-native';
-// import {Calendar} from 'react-native-calendars';
+import { StyleSheet, Text, View, Dimensions } from 'react-native';
 import moment from 'moment' ;
 import CoursList from './CoursList';
 
